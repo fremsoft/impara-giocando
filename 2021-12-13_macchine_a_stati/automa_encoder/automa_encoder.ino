@@ -1,5 +1,9 @@
-// PROBALO SU THINKER CAD:
+// Laboratorio di meccatronica «IMPARA GIOCANDO» del 13-12-2021
+// Guarda la lezione: https://youtu.be/WTQwIRFP-us
+
+// PROVALO SU THINKER CAD:
 // https://www.tinkercad.com/things/6ZEv0ZyfSyf
+
 
 // Scrivendo sul monitor seriale si simulano gli ingressi digitali:
 // 'a' (minuscolo) --> a = 0
