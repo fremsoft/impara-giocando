@@ -1,3 +1,9 @@
+/*
+ *  Visualizza l'esperienza di laboratorio completa: 
+ *  https://youtu.be/9Wre1SoD-30
+ *  
+ */
+
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);

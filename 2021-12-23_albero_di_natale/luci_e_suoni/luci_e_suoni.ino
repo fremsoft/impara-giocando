@@ -1,5 +1,11 @@
 // SUONA JINGLE BELLS E ACCENDE 6 LED (o 6 FILE DI LED)
 
+/*
+ *  Visualizza l'esperienza di laboratorio completa: 
+ *  https://youtu.be/JXIj4VEVkEU
+ *   
+ */
+
 #define LED_ROSSO   7
 #define LED_GIALLO  6
 #define LED_ARANCIO 5

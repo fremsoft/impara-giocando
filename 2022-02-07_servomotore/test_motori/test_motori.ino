@@ -19,6 +19,9 @@
  *  Muovendo l'asse X del Joystick si produce un 
  *  movimento del servomotore da -90 a +90 gradi
  *  
+ *  Visualizza l'esperienza di laboratorio completa:  
+ *  https://youtu.be/IW2o1Hg2DLk
+ *  
  */
 
 #define MOTORE_DC            8

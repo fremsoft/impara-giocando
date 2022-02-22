@@ -2,6 +2,10 @@
  *  segnali analogici con convertitore DIGITALE-ANALOGICO 6-bit
  *  su CH1 dell'oscilloscopio e configura i 6 bit LSB del PORT-B 
  *  per generare segnali analogici con DAC 6-bit su CH2.
+ *  
+ *  Visualizza l'esperienza di laboratorio completa: 
+ *  https://youtu.be/M2usV8eMdYM
+ *  
  */
 
 int ch1, ch2;

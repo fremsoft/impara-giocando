@@ -9,6 +9,10 @@
  *  
  *  Ogni volta che il tasto viene premuto memorizzo nell'Array disegno
  *  le coordinate del punto in cui si trova in quel momento il Joystick
+ *  
+ *  Visualizza l'esperienza di laboratorio completa: 
+ *  https://youtu.be/lPdT0cLojwc
+ *  
  */
 
 #define N_MAX_PUNTI  100
