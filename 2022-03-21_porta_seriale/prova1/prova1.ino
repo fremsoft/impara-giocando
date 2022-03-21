@@ -12,7 +12,7 @@ void setup()
 
 void loop()
 {
-  char digit = '0'
+  char digit = '0';
   
-  digitalWrite ( digit );
+  Serial.write( digit );
 }
