@@ -1,4 +1,11 @@
 /* 
+ * Programma dimostrativo per capire le basi del protocollo
+ * JSON nella comunicazione seriale tra due Arduino.
+ * 
+ * Usando la SoftwareSerial simuliamo la presenza di un
+ * secondo Arduino o di un dispositivo estraneo che trasmette
+ * dati strutturati di una certa complessità.
+ * 
  * Visualizza l'esperienza di laboratorio completa: 
  * https://youtu.be/JQ6aAkAivsE
  */

@@ -1,4 +1,9 @@
 /* 
+ * Programma dimostrativo per capire come funzionano la 
+ * porta seriale fisica e quella emulata con Arduino UNO.
+ * 
+ * Dimostriamo come usare la routine di sistema serialEvent()
+ * 
  * Visualizza l'esperienza di laboratorio completa: 
  * https://youtu.be/JQ6aAkAivsE
  */

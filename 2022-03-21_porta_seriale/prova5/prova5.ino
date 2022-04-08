@@ -1,5 +1,10 @@
 /* 
- * Visualizza l'esperienza di laboratorio completa: 
+ * Programma dimostrativo per capire come funzionano la 
+ * porta seriale fisica e quella emulata con Arduino UNO.
+ * 
+ * Attraverso un loop di interfaccia si dimostrano le 
+ * funzionalità principali e i limiti della SoftwareSerial.
+ * 
  * https://youtu.be/JQ6aAkAivsE
  */
 

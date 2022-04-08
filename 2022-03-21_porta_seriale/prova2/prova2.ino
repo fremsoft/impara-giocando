@@ -1,4 +1,13 @@
 /* 
+ * Programma dimostrativo per capire come funziona la 
+ * porta seriale con Arduino UNO.
+ * 
+ * Questo programma trasmette ad ogni ciclo un numero 
+ * crescente. 
+ * 
+ * Quando riceve un '0' spegne il LED BUILTIN 
+ * Quando riceve un '1' accende il LED BUILTIN 
+ * 
  * Visualizza l'esperienza di laboratorio completa: 
  * https://youtu.be/Z3j8LA9UF0E
  */
