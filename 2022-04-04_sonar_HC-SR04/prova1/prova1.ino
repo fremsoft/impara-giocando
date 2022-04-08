@@ -1,4 +1,10 @@
 /* 
+ * Programma dimostrativo per come funziona il Sonar
+ * HC-SR04. 
+ * 
+ * Visualizziamo su Monitor Seriale la distanza degli 
+ * ostacoli espressa in millimetri.
+ * 
  * Visualizza l'esperienza di laboratorio completa: 
  * https://youtu.be/anoGPaztyF4
  */

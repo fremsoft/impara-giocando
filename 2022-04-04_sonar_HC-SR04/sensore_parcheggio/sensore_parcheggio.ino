@@ -1,4 +1,20 @@
 /* 
+ * Programma dimostrativo per come funziona il Sonar
+ * HC-SR04. 
+ * 
+ * In questo programma utilizziamo il valore corrispondente
+ * alla distanza degli ostacoli per generare dei suoni.
+ * 
+ * - quando l'ostacolo è molto lontano, il buzzer è spento;
+ * 
+ * - quando gli ostacoli sono nell'area di prossimità, viene
+ *   prodotto un beep a cadenza regolare, tanto più radida
+ *   quanto più vicino è l'ostacolo;
+ *   
+ * - quando gli ostacoli sono a ridosso del sensore, viene 
+ *   emesso un sibilo continuo.
+ * 
+ * 
  * Visualizza l'esperienza di laboratorio completa: 
  * https://youtu.be/anoGPaztyF4
  */
@@ -14,7 +30,6 @@
 #define  ATTESA_MIN_MS     200
 #define  ATTESA_MAX_MS    1000
 
-      
 
 
 void setup()
