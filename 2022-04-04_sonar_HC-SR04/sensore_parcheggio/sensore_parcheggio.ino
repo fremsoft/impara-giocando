@@ -1,6 +1,6 @@
 /* 
- * Programma dimostrativo per come funziona il Sonar
- * HC-SR04. 
+ * Programma dimostrativo per dimostrare come funziona il 
+ * Sonar HC-SR04. 
  * 
  * In questo programma utilizziamo il valore corrispondente
  * alla distanza degli ostacoli per generare dei suoni.
