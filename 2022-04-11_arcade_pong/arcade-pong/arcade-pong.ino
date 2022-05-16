@@ -16,6 +16,7 @@
  * 2) https://youtu.be/bSmhxYcj3xs
  * 3) https://youtu.be/mzQGpVoaoDQ
  * 4) https://youtu.be/dZbgcdEF2_o
+ * 5) https://youtu.be/Cs4E_jhcFlY
  * 
  */
  
@@ -165,6 +166,15 @@ void sendBuffer(int n) {
 }
 
 
+/* GESTIONE DEL SUONO CON BUZZER PASSIVO */ 
+
+#define   BUZZER              4
+#define   TONO_BATTUTA_HZ   400
+#define   TONO_BATTUTA_MS    50
+#define   TONO_PUNTO_HZ    1000
+#define   TONO_PUNTO_MS     500
+
+
 /*
    Stato del gioco: 
    1 = attesa che il giocatore si muova per iniziare
@@ -190,6 +200,9 @@ void setup() {
   digitalWrite( MAX7219_CS, HIGH );
   
   pinMode( MAX7219_DIN, OUTPUT );
+
+  pinMode ( BUZZER, OUTPUT );
+  noTone( BUZZER );
 
 
   /* inizializzazione MAX7219 */
@@ -256,6 +269,8 @@ void loop() {
         
         if ( giocatore_a.y != giocatore_a.old_y) {
           /* il giocatore A si è mosso e può iniziare la partita*/
+
+          tone( BUZZER, TONO_BATTUTA_HZ, TONO_BATTUTA_MS );
           
           pallina.vel_x = 1;
           if ( giocatore_a.y > giocatore_a.old_y ) {
@@ -275,6 +290,8 @@ void loop() {
       
         if ( giocatore_b.y != giocatore_b.old_y) {
           /* il giocatore B si è mosso e può iniziare la partita*/
+
+          tone( BUZZER, TONO_BATTUTA_HZ, TONO_BATTUTA_MS );
           
           pallina.vel_x = -1;
           if ( giocatore_b.y > giocatore_b.old_y ) {
@@ -321,12 +338,16 @@ void loop() {
             /* il giocatore B ha colpito la pallina */
             pallina.vel_x = -1;
             pallina.x    -= 2;
+
+            tone( BUZZER, TONO_BATTUTA_HZ, TONO_BATTUTA_MS );
           }
           else
           {
             pallina.vel_x = 0;
             pallina.vel_y = 0;
             stato = 3;
+
+            tone( BUZZER, TONO_PUNTO_HZ, TONO_PUNTO_MS );
           }
         }
         if (pallina.x <= 0) {
@@ -340,12 +361,16 @@ void loop() {
             /* il giocatore A ha colpito la pallina */      
             pallina.vel_x = 1;
             pallina.x    += 2;
+
+            tone( BUZZER, TONO_BATTUTA_HZ, TONO_BATTUTA_MS );
           }
           else
           {
             pallina.vel_x = 0;
             pallina.vel_y = 0;
             stato = 3;
+
+            tone( BUZZER, TONO_PUNTO_HZ, TONO_PUNTO_MS );
           }    
         }        
         
