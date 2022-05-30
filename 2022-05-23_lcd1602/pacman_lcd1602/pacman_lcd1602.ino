@@ -1,3 +1,13 @@
+/*
+ * Esempio di utilizzo del Character Generator su LCD1602
+ * per creare un PAC-MAN che mangia dei pallini come se
+ * fosse un display grafico, mediante la funzione createChar()
+ * 
+ * Visualizza l'esperienza di laboratorio completa: 
+ * https://youtu.be/z1R0VC7QhMU
+ *  
+ */
+
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd_gr(7, 6, 5, 4, 3, 2);
@@ -221,5 +231,18 @@ void loop() {
         riga_pacman = 2;
       }
     }
+  }  
+
+  if (riga_pacman == 2) {
+      lcd_gr.clear();
+      riga_pacman = 3;
+  }
+  
+  if (riga_pacman == 3) {
+  
+      lcd_gr.setCursor(0, 0);
+      lcd_gr.print("     IMPARA     ");
+      lcd_gr.setCursor(0, 1);
+      lcd_gr.print("    GIOCANDO    ");
   }  
 }

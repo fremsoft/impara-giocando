@@ -1,8 +1,9 @@
 /*
  * Come usare il display LCD1602 alfanumerico come se fosse un 
  * display grafico, mediante la funzione createChar()
+ * 
  * Visualizza l'esperienza di laboratorio completa: 
- * https://youtu.be/...
+ * https://youtu.be/z1R0VC7QhMU
  *  
  */
 
