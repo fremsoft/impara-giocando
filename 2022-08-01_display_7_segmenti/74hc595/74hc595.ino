@@ -105,7 +105,7 @@ void loop() {
 
   shiftReg( contatore );
   
-  delay(1000);
+  delay(200);
   contatore ++; if (contatore > 9) { contatore = 0; }
   // metodo alternativo 
   // contatore = (contatore + 1) % 10;

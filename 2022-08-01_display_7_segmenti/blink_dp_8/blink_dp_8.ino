@@ -1,6 +1,10 @@
 /*
  * Test del Display 7 Segmenti a Catodo Comune collegato su pin 2..9
  * 
+ * Collegando il display con un solo resistore da 330 ohm sul catodo comune, 
+ * questo sketch ti mostra come cambia la luminosità del puntino DP accendendo
+ * prima solo lui e poi anche tutti gli altri led del display.
+ * 
  * Visualizza l'esperienza di laboratorio completa: 
  * https://youtu.be/eWZZ-GNG15Y
  *  

@@ -1,6 +1,8 @@
 /*
  * Test del Display 7 Segmenti a Catodo Comune collegato su pin 2..9
  * 
+ * Questo programma conta da 0 a 9 sul display a 7 segmenti in continuazione
+ * 
  * Visualizza l'esperienza di laboratorio completa: 
  * https://youtu.be/eWZZ-GNG15Y
  *  
