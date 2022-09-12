@@ -74,6 +74,10 @@
 #define DEBUG_BUTTON_PIN   6
 #endif
 
+#define LED_ROSSO         10
+
+int pwm_led;
+
 void setup() {
 #if FLASHEND >= 0x3FFF  // For 16k flash or more, like ATtiny1604. Code does not fit in program memory of ATtiny85 etc.
     pinMode(DEBUG_BUTTON_PIN, INPUT_PULLUP);
@@ -108,6 +112,9 @@ void setup() {
     Serial.println(F(" us are subtracted from all marks and added to all spaces for decoding"));
 #endif
 
+    pinMode(LED_ROSSO, OUTPUT);
+    pwm_led = 0;
+    analogWrite(LED_ROSSO, pwm_led);
 }
 
 void loop() {
@@ -186,10 +193,22 @@ void loop() {
          * Finally check the received data and perform actions according to the received address and commands
          */
         if (IrReceiver.decodedIRData.address == 0) {
-            if (IrReceiver.decodedIRData.command == 0x10) {
-                // do something
-            } else if (IrReceiver.decodedIRData.command == 0x11) {
-                // do something else
+            if (IrReceiver.decodedIRData.command == 0x0C) {   /* TASTO 1 */
+                /* ACCENDE IL LED BUILTIN */
+                pwm_led = 20;
+                analogWrite(LED_ROSSO, pwm_led);
+            } else if (IrReceiver.decodedIRData.command == 0x16) { /* TASTO 0 */
+                /* SPEGNE IL LED BUILTIN */
+                pwm_led = 0;
+                analogWrite(LED_ROSSO, pwm_led);
+            } else if (IrReceiver.decodedIRData.command == 0x09) { /* TASTO FRECCIA SU */
+                /* AUMENTA LUMINOSITA */
+                if (pwm_led < 20) { pwm_led++; }
+                analogWrite(LED_ROSSO, pwm_led);
+            } else if (IrReceiver.decodedIRData.command == 0x07) { /* TASTO FERCCIA GIU */
+                /* DIMINUISCE LUMINOSITA */
+                if (pwm_led > 0) { pwm_led--; }
+                analogWrite(LED_ROSSO, pwm_led);
             }
         }
     } // if (IrReceiver.decode())
