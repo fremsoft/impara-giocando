@@ -1,1261 +1,1163 @@
-297275071086350
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/2-G-5,08; number of pins: 02; pin pitch: 5.08mm; Angled || order number: 1757242 12A || order number: 1923869 16A (HC)
-phoenix_contact connector MSTBA_01x02_G_5.08mm
+274153675455497
+MountingHole
+MountingHole_2.1mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
 0
-2
-2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_2-G_1x02_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/2-G; number of pins: 02; pin pitch: 5.00mm; Angled || order number: 1757475 12A || order number: 1923759 16A (HC)
-phoenix_contact connector MSTBA_01x02_G_5.00mm
 0
-2
-2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/3-G-5,08; number of pins: 03; pin pitch: 5.08mm; Angled || order number: 1757255 12A || order number: 1923872 16A (HC)
-phoenix_contact connector MSTBA_01x03_G_5.08mm
 0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/3-G; number of pins: 03; pin pitch: 5.00mm; Angled || order number: 1757488 12A || order number: 1923762 16A (HC)
-phoenix_contact connector MSTBA_01x03_G_5.00mm
+MountingHole
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
 0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_4-G-5,08_1x04_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/4-G-5,08; number of pins: 04; pin pitch: 5.08mm; Angled || order number: 1757268 12A || order number: 1923885 16A (HC)
-phoenix_contact connector MSTBA_01x04_G_5.08mm
 0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_4-G_1x04_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/4-G; number of pins: 04; pin pitch: 5.00mm; Angled || order number: 1757491 12A || order number: 1923775 16A (HC)
-phoenix_contact connector MSTBA_01x04_G_5.00mm
 0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_5-G-5,08_1x05_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/5-G-5,08; number of pins: 05; pin pitch: 5.08mm; Angled || order number: 1757271 12A || order number: 1923898 16A (HC)
-phoenix_contact connector MSTBA_01x05_G_5.08mm
+MountingHole
+MountingHole_2.2mm_M2_DIN965
+Mounting Hole 2.2mm, no annular, M2, DIN965
+mounting hole 2.2mm no annular m2 din965
 0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_5-G_1x05_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/5-G; number of pins: 05; pin pitch: 5.00mm; Angled || order number: 1757501 12A || order number: 1923788 16A (HC)
-phoenix_contact connector MSTBA_01x05_G_5.00mm
 0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/6-G-5,08; number of pins: 06; pin pitch: 5.08mm; Angled || order number: 1757284 12A || order number: 1923908 16A (HC)
-phoenix_contact connector MSTBA_01x06_G_5.08mm
 0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_6-G_1x06_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/6-G; number of pins: 06; pin pitch: 5.00mm; Angled || order number: 1757514 12A || order number: 1923791 16A (HC)
-phoenix_contact connector MSTBA_01x06_G_5.00mm
+MountingHole
+MountingHole_2.2mm_M2_DIN965_Pad
+Mounting Hole 2.2mm, M2, DIN965
+mounting hole 2.2mm m2 din965
 0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_7-G-5,08_1x07_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/7-G-5,08; number of pins: 07; pin pitch: 5.08mm; Angled || order number: 1757297 12A || order number: 1923911 16A (HC)
-phoenix_contact connector MSTBA_01x07_G_5.08mm
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_7-G_1x07_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/7-G; number of pins: 07; pin pitch: 5.00mm; Angled || order number: 1757493 12A || order number: 1923801 16A (HC)
-phoenix_contact connector MSTBA_01x07_G_5.00mm
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_8-G-5,08_1x08_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/8-G-5,08; number of pins: 08; pin pitch: 5.08mm; Angled || order number: 1757307 12A || order number: 1923924 16A (HC)
-phoenix_contact connector MSTBA_01x08_G_5.08mm
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_8-G_1x08_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/8-G; number of pins: 08; pin pitch: 5.00mm; Angled || order number: 1757527 12A || order number: 1923814 16A (HC)
-phoenix_contact connector MSTBA_01x08_G_5.00mm
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_9-G-5,08_1x09_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/9-G-5,08; number of pins: 09; pin pitch: 5.08mm; Angled || order number: 1757310 12A || order number: 1923937 16A (HC)
-phoenix_contact connector MSTBA_01x09_G_5.08mm
-0
-9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_9-G_1x09_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/9-G; number of pins: 09; pin pitch: 5.00mm; Angled || order number: 1757530 12A || order number: 1923827 16A (HC)
-phoenix_contact connector MSTBA_01x09_G_5.00mm
-0
-9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_10-G-5,08_1x10_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/10-G-5,08; number of pins: 10; pin pitch: 5.08mm; Angled || order number: 1757323 12A || order number: 1923940 16A (HC)
-phoenix_contact connector MSTBA_01x10_G_5.08mm
-0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_10-G_1x10_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/10-G; number of pins: 10; pin pitch: 5.00mm; Angled || order number: 1757543 12A || order number: 1923830 16A (HC)
-phoenix_contact connector MSTBA_01x10_G_5.00mm
-0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_11-G-5,08_1x11_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/11-G-5,08; number of pins: 11; pin pitch: 5.08mm; Angled || order number: 1757336 12A || order number: 1923953 16A (HC)
-phoenix_contact connector MSTBA_01x11_G_5.08mm
-0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_11-G_1x11_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/11-G; number of pins: 11; pin pitch: 5.00mm; Angled || order number: 1757556 12A || order number: 1923843 16A (HC)
-phoenix_contact connector MSTBA_01x11_G_5.00mm
-0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_12-G-5,08_1x12_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/12-G-5,08; number of pins: 12; pin pitch: 5.08mm; Angled || order number: 1757349 12A || order number: 1923966 16A (HC)
-phoenix_contact connector MSTBA_01x12_G_5.08mm
-0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_12-G_1x12_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/12-G; number of pins: 12; pin pitch: 5.00mm; Angled || order number: 1757569 12A || order number: 1923856 16A (HC)
-phoenix_contact connector MSTBA_01x12_G_5.00mm
-0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_13-G-5,08_1x13_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/13-G-5,08; number of pins: 13; pin pitch: 5.08mm; Angled || order number: 1757352 12A
-phoenix_contact connector MSTBA_01x13_G_5.08mm
-0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_13-G_1x13_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/13-G; number of pins: 13; pin pitch: 5.00mm; Angled || order number: 1757572 12A
-phoenix_contact connector MSTBA_01x13_G_5.00mm
-0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_14-G-5,08_1x14_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/14-G-5,08; number of pins: 14; pin pitch: 5.08mm; Angled || order number: 1757365 12A
-phoenix_contact connector MSTBA_01x14_G_5.08mm
-0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/14-G; number of pins: 14; pin pitch: 5.00mm; Angled || order number: 1757585 12A
-phoenix_contact connector MSTBA_01x14_G_5.00mm
-0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_15-G-5,08_1x15_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/15-G-5,08; number of pins: 15; pin pitch: 5.08mm; Angled || order number: 1757378 12A
-phoenix_contact connector MSTBA_01x15_G_5.08mm
-0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_15-G_1x15_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/15-G; number of pins: 15; pin pitch: 5.00mm; Angled || order number: 1757598 12A
-phoenix_contact connector MSTBA_01x15_G_5.00mm
-0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/16-G-5,08; number of pins: 16; pin pitch: 5.08mm; Angled || order number: 1757381 12A
-phoenix_contact connector MSTBA_01x16_G_5.08mm
-0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBA_2,5_16-G_1x16_P5.00mm_Horizontal
-Generic Phoenix Contact connector footprint for: MSTBA_2,5/16-G; number of pins: 16; pin pitch: 5.00mm; Angled || order number: 1757608 12A
-phoenix_contact connector MSTBA_01x16_G_5.00mm
-0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/2-G-5,08; number of pins: 02; pin pitch: 5.08mm; Vertical || order number: 1755736 12A || order number: 1924305 16A (HC)
-phoenix_contact connector MSTBVA_01x02_G_5.08mm
-0
-2
-2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/2-G; number of pins: 02; pin pitch: 5.00mm; Vertical || order number: 1755516 12A || order number: 1924198 16A (HC)
-phoenix_contact connector MSTBVA_01x02_G_5.00mm
-0
-2
-2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/3-G-5,08; number of pins: 03; pin pitch: 5.08mm; Vertical || order number: 1755749 12A || order number: 1924318 16A (HC)
-phoenix_contact connector MSTBVA_01x03_G_5.08mm
+1
+1
+MountingHole
+MountingHole_2.2mm_M2_DIN965_Pad_TopBottom
+Mounting Hole 2.2mm, M2, DIN965
+mounting hole 2.2mm m2 din965
 0
 3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_3-G_1x03_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/3-G; number of pins: 03; pin pitch: 5.00mm; Vertical || order number: 1755529 12A || order number: 1924208 16A (HC)
-phoenix_contact connector MSTBVA_01x03_G_5.00mm
-0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_4-G-5,08_1x04_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/4-G-5,08; number of pins: 04; pin pitch: 5.08mm; Vertical || order number: 1755752 12A || order number: 1924321 16A (HC)
-phoenix_contact connector MSTBVA_01x04_G_5.08mm
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_4-G_1x04_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/4-G; number of pins: 04; pin pitch: 5.00mm; Vertical || order number: 1755532 12A || order number: 1924211 16A (HC)
-phoenix_contact connector MSTBVA_01x04_G_5.00mm
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_5-G-5,08_1x05_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/5-G-5,08; number of pins: 05; pin pitch: 5.08mm; Vertical || order number: 1755765 12A || order number: 1924334 16A (HC)
-phoenix_contact connector MSTBVA_01x05_G_5.08mm
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_5-G_1x05_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/5-G; number of pins: 05; pin pitch: 5.00mm; Vertical || order number: 1755545 12A || order number: 1924224 16A (HC)
-phoenix_contact connector MSTBVA_01x05_G_5.00mm
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_6-G-5,08_1x06_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/6-G-5,08; number of pins: 06; pin pitch: 5.08mm; Vertical || order number: 1755778 12A || order number: 1924347 16A (HC)
-phoenix_contact connector MSTBVA_01x06_G_5.08mm
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_6-G_1x06_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/6-G; number of pins: 06; pin pitch: 5.00mm; Vertical || order number: 1755558 12A || order number: 1924237 16A (HC)
-phoenix_contact connector MSTBVA_01x06_G_5.00mm
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_7-G-5,08_1x07_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/7-G-5,08; number of pins: 07; pin pitch: 5.08mm; Vertical || order number: 1755781 12A || order number: 1924350 16A (HC)
-phoenix_contact connector MSTBVA_01x07_G_5.08mm
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_7-G_1x07_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/7-G; number of pins: 07; pin pitch: 5.00mm; Vertical || order number: 1755561 12A || order number: 1924240 16A (HC)
-phoenix_contact connector MSTBVA_01x07_G_5.00mm
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_8-G-5,08_1x08_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/8-G-5,08; number of pins: 08; pin pitch: 5.08mm; Vertical || order number: 1755794 12A || order number: 1924363 16A (HC)
-phoenix_contact connector MSTBVA_01x08_G_5.08mm
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_8-G_1x08_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/8-G; number of pins: 08; pin pitch: 5.00mm; Vertical || order number: 1755574 12A || order number: 1924253 16A (HC)
-phoenix_contact connector MSTBVA_01x08_G_5.00mm
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_9-G-5,08_1x09_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/9-G-5,08; number of pins: 09; pin pitch: 5.08mm; Vertical || order number: 1755804 12A || order number: 1924376 16A (HC)
-phoenix_contact connector MSTBVA_01x09_G_5.08mm
-0
-9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_9-G_1x09_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/9-G; number of pins: 09; pin pitch: 5.00mm; Vertical || order number: 1755587 12A || order number: 1924266 16A (HC)
-phoenix_contact connector MSTBVA_01x09_G_5.00mm
-0
-9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_10-G-5,08_1x10_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/10-G-5,08; number of pins: 10; pin pitch: 5.08mm; Vertical || order number: 1755817 12A || order number: 1924389 16A (HC)
-phoenix_contact connector MSTBVA_01x10_G_5.08mm
-0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_10-G_1x10_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/10-G; number of pins: 10; pin pitch: 5.00mm; Vertical || order number: 1755503 12A || order number: 1924279 16A (HC)
-phoenix_contact connector MSTBVA_01x10_G_5.00mm
-0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_11-G-5,08_1x11_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/11-G-5,08; number of pins: 11; pin pitch: 5.08mm; Vertical || order number: 1755820 12A || order number: 1924392 16A (HC)
-phoenix_contact connector MSTBVA_01x11_G_5.08mm
-0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_11-G_1x11_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/11-G; number of pins: 11; pin pitch: 5.00mm; Vertical || order number: 1755590 12A || order number: 1924282 16A (HC)
-phoenix_contact connector MSTBVA_01x11_G_5.00mm
-0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/12-G-5,08; number of pins: 12; pin pitch: 5.08mm; Vertical || order number: 1755833 12A || order number: 1924402 16A (HC)
-phoenix_contact connector MSTBVA_01x12_G_5.08mm
-0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_12-G_1x12_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/12-G; number of pins: 12; pin pitch: 5.00mm; Vertical || order number: 1755600 12A || order number: 1924295 16A (HC)
-phoenix_contact connector MSTBVA_01x12_G_5.00mm
-0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_13-G-5,08_1x13_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/13-G-5,08; number of pins: 13; pin pitch: 5.08mm; Vertical || order number: 1755846 12A
-phoenix_contact connector MSTBVA_01x13_G_5.08mm
-0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_13-G_1x13_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/13-G; number of pins: 13; pin pitch: 5.00mm; Vertical || order number: 1755613 12A
-phoenix_contact connector MSTBVA_01x13_G_5.00mm
-0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_14-G-5,08_1x14_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/14-G-5,08; number of pins: 14; pin pitch: 5.08mm; Vertical || order number: 1755859 12A
-phoenix_contact connector MSTBVA_01x14_G_5.08mm
-0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_14-G_1x14_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/14-G; number of pins: 14; pin pitch: 5.00mm; Vertical || order number: 1755626 12A
-phoenix_contact connector MSTBVA_01x14_G_5.00mm
-0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_15-G-5,08_1x15_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/15-G-5,08; number of pins: 15; pin pitch: 5.08mm; Vertical || order number: 1755862 12A
-phoenix_contact connector MSTBVA_01x15_G_5.08mm
-0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_15-G_1x15_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/15-G; number of pins: 15; pin pitch: 5.00mm; Vertical || order number: 1755639 12A
-phoenix_contact connector MSTBVA_01x15_G_5.00mm
-0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_16-G-5,08_1x16_P5.08mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/16-G-5,08; number of pins: 16; pin pitch: 5.08mm; Vertical || order number: 1755875 12A
-phoenix_contact connector MSTBVA_01x16_G_5.08mm
-0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBVA_2,5_16-G_1x16_P5.00mm_Vertical
-Generic Phoenix Contact connector footprint for: MSTBVA_2,5/16-G; number of pins: 16; pin pitch: 5.00mm; Vertical || order number: 1755642 12A
-phoenix_contact connector MSTBVA_01x16_G_5.00mm
-0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/2-GF-5,08; number of pins: 02; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777073 12A || order number: 1924525 16A (HC)
-phoenix_contact connector MSTBV_01x02_GF_5.08mm
+1
+MountingHole
+MountingHole_2.2mm_M2_DIN965_Pad_TopOnly
+Mounting Hole 2.2mm, M2, DIN965
+mounting hole 2.2mm m2 din965
 0
 2
-2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/2-GF-5,08; number of pins: 02; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777073 12A || order number: 1924525 16A (HC)
-phoenix_contact connector MSTBV_01x02_GF_5.08mm_MH
+1
+MountingHole
+MountingHole_2.2mm_M2_ISO7380
+Mounting Hole 2.2mm, no annular, M2, ISO7380
+mounting hole 2.2mm no annular m2 iso7380
 0
-2
-2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_2-GF_1x02_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/2-GF; number of pins: 02; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776883 12A || order number: 1924415 16A (HC)
-phoenix_contact connector MSTBV_01x02_GF_5.00mm
 0
-2
-2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_2-GF_1x02_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/2-GF; number of pins: 02; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776883 12A || order number: 1924415 16A (HC)
-phoenix_contact connector MSTBV_01x02_GF_5.00mm_MH
 0
-2
-2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_3-GF-5,08_1x03_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/3-GF-5,08; number of pins: 03; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777086 12A || order number: 1924538 16A (HC)
-phoenix_contact connector MSTBV_01x03_GF_5.08mm
+MountingHole
+MountingHole_2.2mm_M2_ISO7380_Pad
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
+0
+1
+1
+MountingHole
+MountingHole_2.2mm_M2_ISO7380_Pad_TopBottom
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
 0
 3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_3-GF-5,08_1x03_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/3-GF-5,08; number of pins: 03; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777086 12A || order number: 1924538 16A (HC)
-phoenix_contact connector MSTBV_01x03_GF_5.08mm_MH
-0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/3-GF; number of pins: 03; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776896 12A || order number: 1924428 16A (HC)
-phoenix_contact connector MSTBV_01x03_GF_5.00mm
-0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/3-GF; number of pins: 03; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776896 12A || order number: 1924428 16A (HC)
-phoenix_contact connector MSTBV_01x03_GF_5.00mm_MH
-0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_4-GF-5,08_1x04_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/4-GF-5,08; number of pins: 04; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777099 12A || order number: 1924541 16A (HC)
-phoenix_contact connector MSTBV_01x04_GF_5.08mm
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_4-GF-5,08_1x04_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/4-GF-5,08; number of pins: 04; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777099 12A || order number: 1924541 16A (HC)
-phoenix_contact connector MSTBV_01x04_GF_5.08mm_MH
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_4-GF_1x04_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/4-GF; number of pins: 04; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776906 12A || order number: 1924431 16A (HC)
-phoenix_contact connector MSTBV_01x04_GF_5.00mm
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_4-GF_1x04_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/4-GF; number of pins: 04; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776906 12A || order number: 1924431 16A (HC)
-phoenix_contact connector MSTBV_01x04_GF_5.00mm_MH
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_5-GF-5,08_1x05_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/5-GF-5,08; number of pins: 05; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777109 12A || order number: 1924554 16A (HC)
-phoenix_contact connector MSTBV_01x05_GF_5.08mm
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_5-GF-5,08_1x05_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/5-GF-5,08; number of pins: 05; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777109 12A || order number: 1924554 16A (HC)
-phoenix_contact connector MSTBV_01x05_GF_5.08mm_MH
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_5-GF_1x05_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/5-GF; number of pins: 05; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776919 12A || order number: 1924444 16A (HC)
-phoenix_contact connector MSTBV_01x05_GF_5.00mm
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_5-GF_1x05_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/5-GF; number of pins: 05; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776919 12A || order number: 1924444 16A (HC)
-phoenix_contact connector MSTBV_01x05_GF_5.00mm_MH
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_6-GF-5,08_1x06_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/6-GF-5,08; number of pins: 06; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777112 12A || order number: 1924567 16A (HC)
-phoenix_contact connector MSTBV_01x06_GF_5.08mm
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_6-GF-5,08_1x06_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/6-GF-5,08; number of pins: 06; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777112 12A || order number: 1924567 16A (HC)
-phoenix_contact connector MSTBV_01x06_GF_5.08mm_MH
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_6-GF_1x06_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/6-GF; number of pins: 06; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776922 12A || order number: 1924457 16A (HC)
-phoenix_contact connector MSTBV_01x06_GF_5.00mm
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_6-GF_1x06_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/6-GF; number of pins: 06; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776922 12A || order number: 1924457 16A (HC)
-phoenix_contact connector MSTBV_01x06_GF_5.00mm_MH
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_7-GF-5,08_1x07_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/7-GF-5,08; number of pins: 07; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777125 12A || order number: 1924570 16A (HC)
-phoenix_contact connector MSTBV_01x07_GF_5.08mm
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_7-GF-5,08_1x07_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/7-GF-5,08; number of pins: 07; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777125 12A || order number: 1924570 16A (HC)
-phoenix_contact connector MSTBV_01x07_GF_5.08mm_MH
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_7-GF_1x07_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/7-GF; number of pins: 07; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776935 12A || order number: 1924460 16A (HC)
-phoenix_contact connector MSTBV_01x07_GF_5.00mm
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_7-GF_1x07_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/7-GF; number of pins: 07; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776935 12A || order number: 1924460 16A (HC)
-phoenix_contact connector MSTBV_01x07_GF_5.00mm_MH
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_8-GF-5,08_1x08_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/8-GF-5,08; number of pins: 08; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777138 12A || order number: 1924583 16A (HC)
-phoenix_contact connector MSTBV_01x08_GF_5.08mm
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_8-GF-5,08_1x08_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/8-GF-5,08; number of pins: 08; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777138 12A || order number: 1924583 16A (HC)
-phoenix_contact connector MSTBV_01x08_GF_5.08mm_MH
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_8-GF_1x08_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/8-GF; number of pins: 08; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776948 12A || order number: 1924473 16A (HC)
-phoenix_contact connector MSTBV_01x08_GF_5.00mm
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_8-GF_1x08_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/8-GF; number of pins: 08; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776948 12A || order number: 1924473 16A (HC)
-phoenix_contact connector MSTBV_01x08_GF_5.00mm_MH
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_9-GF-5,08_1x09_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/9-GF-5,08; number of pins: 09; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777141 12A || order number: 1924596 16A (HC)
-phoenix_contact connector MSTBV_01x09_GF_5.08mm
-0
-9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_9-GF-5,08_1x09_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/9-GF-5,08; number of pins: 09; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777141 12A || order number: 1924596 16A (HC)
-phoenix_contact connector MSTBV_01x09_GF_5.08mm_MH
-0
-9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_9-GF_1x09_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/9-GF; number of pins: 09; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776951 12A || order number: 1924486 16A (HC)
-phoenix_contact connector MSTBV_01x09_GF_5.00mm
-0
-9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_9-GF_1x09_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/9-GF; number of pins: 09; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776951 12A || order number: 1924486 16A (HC)
-phoenix_contact connector MSTBV_01x09_GF_5.00mm_MH
-0
-9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_10-GF-5,08_1x10_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/10-GF-5,08; number of pins: 10; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777154 12A || order number: 1924606 16A (HC)
-phoenix_contact connector MSTBV_01x10_GF_5.08mm
-0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_10-GF-5,08_1x10_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/10-GF-5,08; number of pins: 10; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777154 12A || order number: 1924606 16A (HC)
-phoenix_contact connector MSTBV_01x10_GF_5.08mm_MH
-0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_10-GF_1x10_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/10-GF; number of pins: 10; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776964 12A || order number: 1924499 16A (HC)
-phoenix_contact connector MSTBV_01x10_GF_5.00mm
-0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_10-GF_1x10_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/10-GF; number of pins: 10; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776964 12A || order number: 1924499 16A (HC)
-phoenix_contact connector MSTBV_01x10_GF_5.00mm_MH
-0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_11-GF-5,08_1x11_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/11-GF-5,08; number of pins: 11; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777167 12A || order number: 1924619 16A (HC)
-phoenix_contact connector MSTBV_01x11_GF_5.08mm
-0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_11-GF-5,08_1x11_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/11-GF-5,08; number of pins: 11; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777167 12A || order number: 1924619 16A (HC)
-phoenix_contact connector MSTBV_01x11_GF_5.08mm_MH
-0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_11-GF_1x11_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/11-GF; number of pins: 11; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776977 12A || order number: 1924509 16A (HC)
-phoenix_contact connector MSTBV_01x11_GF_5.00mm
-0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_11-GF_1x11_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/11-GF; number of pins: 11; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776977 12A || order number: 1924509 16A (HC)
-phoenix_contact connector MSTBV_01x11_GF_5.00mm_MH
-0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_12-GF-5,08_1x12_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/12-GF-5,08; number of pins: 12; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777170 12A || order number: 1924622 16A (HC)
-phoenix_contact connector MSTBV_01x12_GF_5.08mm
-0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_12-GF-5,08_1x12_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/12-GF-5,08; number of pins: 12; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777170 12A || order number: 1924622 16A (HC)
-phoenix_contact connector MSTBV_01x12_GF_5.08mm_MH
-0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_12-GF_1x12_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/12-GF; number of pins: 12; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776980 12A || order number: 1924512 16A (HC)
-phoenix_contact connector MSTBV_01x12_GF_5.00mm
-0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_12-GF_1x12_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/12-GF; number of pins: 12; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776980 12A || order number: 1924512 16A (HC)
-phoenix_contact connector MSTBV_01x12_GF_5.00mm_MH
-0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/13-GF-5,08; number of pins: 13; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777183 12A
-phoenix_contact connector MSTBV_01x13_GF_5.08mm
-0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/13-GF-5,08; number of pins: 13; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777183 12A
-phoenix_contact connector MSTBV_01x13_GF_5.08mm_MH
-0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/13-GF; number of pins: 13; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776993 12A
-phoenix_contact connector MSTBV_01x13_GF_5.00mm
-0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/13-GF; number of pins: 13; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776993 12A
-phoenix_contact connector MSTBV_01x13_GF_5.00mm_MH
-0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_14-GF-5,08_1x14_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/14-GF-5,08; number of pins: 14; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777196 12A
-phoenix_contact connector MSTBV_01x14_GF_5.08mm
-0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_14-GF-5,08_1x14_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/14-GF-5,08; number of pins: 14; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777196 12A
-phoenix_contact connector MSTBV_01x14_GF_5.08mm_MH
-0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_14-GF_1x14_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/14-GF; number of pins: 14; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776002 12A
-phoenix_contact connector MSTBV_01x14_GF_5.00mm
-0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_14-GF_1x14_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/14-GF; number of pins: 14; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776002 12A
-phoenix_contact connector MSTBV_01x14_GF_5.00mm_MH
-0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/15-GF-5,08; number of pins: 15; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777206 12A
-phoenix_contact connector MSTBV_01x15_GF_5.08mm
-0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/15-GF-5,08; number of pins: 15; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777206 12A
-phoenix_contact connector MSTBV_01x15_GF_5.08mm_MH
-0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_15-GF_1x15_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/15-GF; number of pins: 15; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776015 12A
-phoenix_contact connector MSTBV_01x15_GF_5.00mm
-0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_15-GF_1x15_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/15-GF; number of pins: 15; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776015 12A
-phoenix_contact connector MSTBV_01x15_GF_5.00mm_MH
-0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_16-GF-5,08_1x16_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/16-GF-5,08; number of pins: 16; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777219 12A
-phoenix_contact connector MSTBV_01x16_GF_5.08mm
-0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_16-GF-5,08_1x16_P5.08mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/16-GF-5,08; number of pins: 16; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1777219 12A
-phoenix_contact connector MSTBV_01x16_GF_5.08mm_MH
-0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_16-GF_1x16_P5.00mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/16-GF; number of pins: 16; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776028 12A
-phoenix_contact connector MSTBV_01x16_GF_5.00mm
-0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTBV_2,5_16-GF_1x16_P5.00mm_Vertical_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/16-GF; number of pins: 16; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776028 12A
-phoenix_contact connector MSTBV_01x16_GF_5.00mm_MH
-0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_2-GF-5,08_1x02_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/2-GF-5,08; number of pins: 02; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776508 12A || order number: 1924088 16A (HC)
-phoenix_contact connector MSTB_01x02_GF_5.08mm
+1
+MountingHole
+MountingHole_2.2mm_M2_ISO7380_Pad_TopOnly
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
 0
 2
+1
+MountingHole
+MountingHole_2.2mm_M2_ISO14580
+Mounting Hole 2.2mm, no annular, M2, ISO14580
+mounting hole 2.2mm no annular m2 iso14580
+0
+0
+0
+MountingHole
+MountingHole_2.2mm_M2_ISO14580_Pad
+Mounting Hole 2.2mm, M2, ISO14580
+mounting hole 2.2mm m2 iso14580
+0
+1
+1
+MountingHole
+MountingHole_2.2mm_M2_ISO14580_Pad_TopBottom
+Mounting Hole 2.2mm, M2, ISO14580
+mounting hole 2.2mm m2 iso14580
+0
+3
+1
+MountingHole
+MountingHole_2.2mm_M2_ISO14580_Pad_TopOnly
+Mounting Hole 2.2mm, M2, ISO14580
+mounting hole 2.2mm m2 iso14580
+0
 2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_2-GF-5,08_1x02_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/2-GF-5,08; number of pins: 02; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776508 12A || order number: 1924088 16A (HC)
-phoenix_contact connector MSTB_01x02_GF_5.08mm_MH
+1
+MountingHole
+MountingHole_2.2mm_M2_Pad
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+1
+1
+MountingHole
+MountingHole_2.2mm_M2_Pad_TopBottom
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+3
+1
+MountingHole
+MountingHole_2.2mm_M2_Pad_TopOnly
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
 0
 2
+1
+MountingHole
+MountingHole_2.2mm_M2_Pad_Via
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+9
+1
+MountingHole
+MountingHole_2.5mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+MountingHole
+MountingHole_2.5mm_Pad
+Mounting Hole 2.5mm
+mounting hole 2.5mm
+0
+1
+1
+MountingHole
+MountingHole_2.5mm_Pad_TopBottom
+Mounting Hole 2.5mm
+mounting hole 2.5mm
+0
+3
+1
+MountingHole
+MountingHole_2.5mm_Pad_TopOnly
+Mounting Hole 2.5mm
+mounting hole 2.5mm
+0
 2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_2-GF_1x02_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/2-GF; number of pins: 02; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776692 12A || order number: 1923979 16A (HC)
-phoenix_contact connector MSTB_01x02_GF_5.00mm
+1
+MountingHole
+MountingHole_2.5mm_Pad_Via
+Mounting Hole 2.5mm
+mounting hole 2.5mm
+0
+9
+1
+MountingHole
+MountingHole_2.7mm
+Mounting Hole 2.7mm, no annular
+mounting hole 2.7mm no annular
+0
+0
+0
+MountingHole
+MountingHole_2.7mm_M2.5
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+MountingHole
+MountingHole_2.7mm_M2.5_DIN965
+Mounting Hole 2.7mm, no annular, M2.5, DIN965
+mounting hole 2.7mm no annular m2.5 din965
+0
+0
+0
+MountingHole
+MountingHole_2.7mm_M2.5_DIN965_Pad
+Mounting Hole 2.7mm, M2.5, DIN965
+mounting hole 2.7mm m2.5 din965
+0
+1
+1
+MountingHole
+MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom
+Mounting Hole 2.7mm, M2.5, DIN965
+mounting hole 2.7mm m2.5 din965
+0
+3
+1
+MountingHole
+MountingHole_2.7mm_M2.5_DIN965_Pad_TopOnly
+Mounting Hole 2.7mm, M2.5, DIN965
+mounting hole 2.7mm m2.5 din965
 0
 2
+1
+MountingHole
+MountingHole_2.7mm_M2.5_ISO7380
+Mounting Hole 2.7mm, no annular, M2.5, ISO7380
+mounting hole 2.7mm no annular m2.5 iso7380
+0
+0
+0
+MountingHole
+MountingHole_2.7mm_M2.5_ISO7380_Pad
+Mounting Hole 2.7mm, M2.5, ISO7380
+mounting hole 2.7mm m2.5 iso7380
+0
+1
+1
+MountingHole
+MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom
+Mounting Hole 2.7mm, M2.5, ISO7380
+mounting hole 2.7mm m2.5 iso7380
+0
+3
+1
+MountingHole
+MountingHole_2.7mm_M2.5_ISO7380_Pad_TopOnly
+Mounting Hole 2.7mm, M2.5, ISO7380
+mounting hole 2.7mm m2.5 iso7380
+0
 2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_2-GF_1x02_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/2-GF; number of pins: 02; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776692 12A || order number: 1923979 16A (HC)
-phoenix_contact connector MSTB_01x02_GF_5.00mm_MH
+1
+MountingHole
+MountingHole_2.7mm_M2.5_ISO14580
+Mounting Hole 2.7mm, no annular, M2.5, ISO14580
+mounting hole 2.7mm no annular m2.5 iso14580
+0
+0
+0
+MountingHole
+MountingHole_2.7mm_M2.5_ISO14580_Pad
+Mounting Hole 2.7mm, M2.5, ISO14580
+mounting hole 2.7mm m2.5 iso14580
+0
+1
+1
+MountingHole
+MountingHole_2.7mm_M2.5_ISO14580_Pad_TopBottom
+Mounting Hole 2.7mm, M2.5, ISO14580
+mounting hole 2.7mm m2.5 iso14580
+0
+3
+1
+MountingHole
+MountingHole_2.7mm_M2.5_ISO14580_Pad_TopOnly
+Mounting Hole 2.7mm, M2.5, ISO14580
+mounting hole 2.7mm m2.5 iso14580
 0
 2
+1
+MountingHole
+MountingHole_2.7mm_M2.5_Pad
+Mounting Hole 2.7mm, M2.5
+mounting hole 2.7mm m2.5
+0
+1
+1
+MountingHole
+MountingHole_2.7mm_M2.5_Pad_TopBottom
+Mounting Hole 2.7mm, M2.5
+mounting hole 2.7mm m2.5
+0
+3
+1
+MountingHole
+MountingHole_2.7mm_M2.5_Pad_TopOnly
+Mounting Hole 2.7mm, M2.5
+mounting hole 2.7mm m2.5
+0
 2
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_3-GF-5,08_1x03_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/3-GF-5,08; number of pins: 03; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776511 12A || order number: 1924091 16A (HC)
-phoenix_contact connector MSTB_01x03_GF_5.08mm
-0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_3-GF-5,08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/3-GF-5,08; number of pins: 03; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776511 12A || order number: 1924091 16A (HC)
-phoenix_contact connector MSTB_01x03_GF_5.08mm_MH
-0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_3-GF_1x03_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/3-GF; number of pins: 03; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776702 12A || order number: 1923982 16A (HC)
-phoenix_contact connector MSTB_01x03_GF_5.00mm
-0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_3-GF_1x03_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/3-GF; number of pins: 03; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776702 12A || order number: 1923982 16A (HC)
-phoenix_contact connector MSTB_01x03_GF_5.00mm_MH
-0
-3
-3
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_4-GF-5,08_1x04_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/4-GF-5,08; number of pins: 04; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776524 12A || order number: 1924101 16A (HC)
-phoenix_contact connector MSTB_01x04_GF_5.08mm
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_4-GF-5,08_1x04_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/4-GF-5,08; number of pins: 04; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776524 12A || order number: 1924101 16A (HC)
-phoenix_contact connector MSTB_01x04_GF_5.08mm_MH
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_4-GF_1x04_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/4-GF; number of pins: 04; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776715 12A || order number: 1923995 16A (HC)
-phoenix_contact connector MSTB_01x04_GF_5.00mm
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_4-GF_1x04_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/4-GF; number of pins: 04; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776715 12A || order number: 1923995 16A (HC)
-phoenix_contact connector MSTB_01x04_GF_5.00mm_MH
-0
-4
-4
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_5-GF-5,08_1x05_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/5-GF-5,08; number of pins: 05; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776537 12A || order number: 1924114 16A (HC)
-phoenix_contact connector MSTB_01x05_GF_5.08mm
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_5-GF-5,08_1x05_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/5-GF-5,08; number of pins: 05; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776537 12A || order number: 1924114 16A (HC)
-phoenix_contact connector MSTB_01x05_GF_5.08mm_MH
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_5-GF_1x05_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/5-GF; number of pins: 05; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776728 12A || order number: 1924004 16A (HC)
-phoenix_contact connector MSTB_01x05_GF_5.00mm
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_5-GF_1x05_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/5-GF; number of pins: 05; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776728 12A || order number: 1924004 16A (HC)
-phoenix_contact connector MSTB_01x05_GF_5.00mm_MH
-0
-5
-5
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_6-GF-5,08_1x06_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/6-GF-5,08; number of pins: 06; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776540 12A || order number: 1924127 16A (HC)
-phoenix_contact connector MSTB_01x06_GF_5.08mm
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_6-GF-5,08_1x06_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/6-GF-5,08; number of pins: 06; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776540 12A || order number: 1924127 16A (HC)
-phoenix_contact connector MSTB_01x06_GF_5.08mm_MH
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_6-GF_1x06_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/6-GF; number of pins: 06; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776731 12A || order number: 1924017 16A (HC)
-phoenix_contact connector MSTB_01x06_GF_5.00mm
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_6-GF_1x06_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/6-GF; number of pins: 06; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776731 12A || order number: 1924017 16A (HC)
-phoenix_contact connector MSTB_01x06_GF_5.00mm_MH
-0
-6
-6
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_7-GF-5,08_1x07_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/7-GF-5,08; number of pins: 07; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776553 12A || order number: 1924130 16A (HC)
-phoenix_contact connector MSTB_01x07_GF_5.08mm
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_7-GF-5,08_1x07_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/7-GF-5,08; number of pins: 07; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776553 12A || order number: 1924130 16A (HC)
-phoenix_contact connector MSTB_01x07_GF_5.08mm_MH
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_7-GF_1x07_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/7-GF; number of pins: 07; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776744 12A || order number: 1924020 16A (HC)
-phoenix_contact connector MSTB_01x07_GF_5.00mm
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_7-GF_1x07_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/7-GF; number of pins: 07; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776744 12A || order number: 1924020 16A (HC)
-phoenix_contact connector MSTB_01x07_GF_5.00mm_MH
-0
-7
-7
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_8-GF-5,08_1x08_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/8-GF-5,08; number of pins: 08; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776566 12A || order number: 1924143 16A (HC)
-phoenix_contact connector MSTB_01x08_GF_5.08mm
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_8-GF-5,08_1x08_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/8-GF-5,08; number of pins: 08; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776566 12A || order number: 1924143 16A (HC)
-phoenix_contact connector MSTB_01x08_GF_5.08mm_MH
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_8-GF_1x08_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/8-GF; number of pins: 08; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776757 12A || order number: 1924033 16A (HC)
-phoenix_contact connector MSTB_01x08_GF_5.00mm
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_8-GF_1x08_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/8-GF; number of pins: 08; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776757 12A || order number: 1924033 16A (HC)
-phoenix_contact connector MSTB_01x08_GF_5.00mm_MH
-0
-8
-8
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_9-GF-5,08_1x09_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/9-GF-5,08; number of pins: 09; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776579 12A || order number: 1924156 16A (HC)
-phoenix_contact connector MSTB_01x09_GF_5.08mm
+1
+MountingHole
+MountingHole_2.7mm_M2.5_Pad_Via
+Mounting Hole 2.7mm
+mounting hole 2.7mm
 0
 9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_9-GF-5,08_1x09_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/9-GF-5,08; number of pins: 09; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776579 12A || order number: 1924156 16A (HC)
-phoenix_contact connector MSTB_01x09_GF_5.08mm_MH
+1
+MountingHole
+MountingHole_2.7mm_Pad
+Mounting Hole 2.7mm
+mounting hole 2.7mm
+0
+1
+1
+MountingHole
+MountingHole_2.7mm_Pad_TopBottom
+Mounting Hole 2.7mm
+mounting hole 2.7mm
+0
+3
+1
+MountingHole
+MountingHole_2.7mm_Pad_TopOnly
+Mounting Hole 2.7mm
+mounting hole 2.7mm
+0
+2
+1
+MountingHole
+MountingHole_2.7mm_Pad_Via
+Mounting Hole 2.7mm
+mounting hole 2.7mm
 0
 9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_9-GF_1x09_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/9-GF; number of pins: 09; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776760 12A || order number: 1924046 16A (HC)
-phoenix_contact connector MSTB_01x09_GF_5.00mm
+1
+MountingHole
+MountingHole_2mm
+Mounting Hole 2mm, no annular
+mounting hole 2mm no annular
+0
+0
+0
+MountingHole
+MountingHole_3.2mm_M3
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+MountingHole
+MountingHole_3.2mm_M3_DIN965
+Mounting Hole 3.2mm, no annular, M3, DIN965
+mounting hole 3.2mm no annular m3 din965
+0
+0
+0
+MountingHole
+MountingHole_3.2mm_M3_DIN965_Pad
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+1
+1
+MountingHole
+MountingHole_3.2mm_M3_DIN965_Pad_TopBottom
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+MountingHole
+MountingHole_3.2mm_M3_DIN965_Pad_TopOnly
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+2
+1
+MountingHole
+MountingHole_3.2mm_M3_ISO7380
+Mounting Hole 3.2mm, no annular, M3, ISO7380
+mounting hole 3.2mm no annular m3 iso7380
+0
+0
+0
+MountingHole
+MountingHole_3.2mm_M3_ISO7380_Pad
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+1
+1
+MountingHole
+MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+3
+1
+MountingHole
+MountingHole_3.2mm_M3_ISO7380_Pad_TopOnly
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+2
+1
+MountingHole
+MountingHole_3.2mm_M3_ISO14580
+Mounting Hole 3.2mm, no annular, M3, ISO14580
+mounting hole 3.2mm no annular m3 iso14580
+0
+0
+0
+MountingHole
+MountingHole_3.2mm_M3_ISO14580_Pad
+Mounting Hole 3.2mm, M3, ISO14580
+mounting hole 3.2mm m3 iso14580
+0
+1
+1
+MountingHole
+MountingHole_3.2mm_M3_ISO14580_Pad_TopBottom
+Mounting Hole 3.2mm, M3, ISO14580
+mounting hole 3.2mm m3 iso14580
+0
+3
+1
+MountingHole
+MountingHole_3.2mm_M3_ISO14580_Pad_TopOnly
+Mounting Hole 3.2mm, M3, ISO14580
+mounting hole 3.2mm m3 iso14580
+0
+2
+1
+MountingHole
+MountingHole_3.2mm_M3_Pad
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+1
+1
+MountingHole
+MountingHole_3.2mm_M3_Pad_TopBottom
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+3
+1
+MountingHole
+MountingHole_3.2mm_M3_Pad_TopOnly
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+2
+1
+MountingHole
+MountingHole_3.2mm_M3_Pad_Via
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
 0
 9
-9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_9-GF_1x09_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/9-GF; number of pins: 09; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776760 12A || order number: 1924046 16A (HC)
-phoenix_contact connector MSTB_01x09_GF_5.00mm_MH
+1
+MountingHole
+MountingHole_3.5mm
+Mounting Hole 3.5mm, no annular
+mounting hole 3.5mm no annular
+0
+0
+0
+MountingHole
+MountingHole_3.5mm_Pad
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+1
+1
+MountingHole
+MountingHole_3.5mm_Pad_TopBottom
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+3
+1
+MountingHole
+MountingHole_3.5mm_Pad_TopOnly
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+2
+1
+MountingHole
+MountingHole_3.5mm_Pad_Via
+Mounting Hole 3.5mm
+mounting hole 3.5mm
 0
 9
+1
+MountingHole
+MountingHole_3.7mm
+Mounting Hole 3.7mm, no annular
+mounting hole 3.7mm no annular
+0
+0
+0
+MountingHole
+MountingHole_3.7mm_Pad
+Mounting Hole 3.7mm
+mounting hole 3.7mm
+0
+1
+1
+MountingHole
+MountingHole_3.7mm_Pad_TopBottom
+Mounting Hole 3.7mm
+mounting hole 3.7mm
+0
+3
+1
+MountingHole
+MountingHole_3.7mm_Pad_TopOnly
+Mounting Hole 3.7mm
+mounting hole 3.7mm
+0
+2
+1
+MountingHole
+MountingHole_3.7mm_Pad_Via
+Mounting Hole 3.7mm
+mounting hole 3.7mm
+0
 9
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_10-GF-5,08_1x10_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/10-GF-5,08; number of pins: 10; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776582 12A || order number: 1924169 16A (HC)
-phoenix_contact connector MSTB_01x10_GF_5.08mm
+1
+MountingHole
+MountingHole_3mm
+Mounting Hole 3mm, no annular
+mounting hole 3mm no annular
 0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_10-GF-5,08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/10-GF-5,08; number of pins: 10; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776582 12A || order number: 1924169 16A (HC)
-phoenix_contact connector MSTB_01x10_GF_5.08mm_MH
 0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_10-GF_1x10_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/10-GF; number of pins: 10; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776773 12A || order number: 1924059 16A (HC)
-phoenix_contact connector MSTB_01x10_GF_5.00mm
 0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_10-GF_1x10_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/10-GF; number of pins: 10; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776773 12A || order number: 1924059 16A (HC)
-phoenix_contact connector MSTB_01x10_GF_5.00mm_MH
+MountingHole
+MountingHole_3mm_Pad
+Mounting Hole 3mm
+mounting hole 3mm
 0
-10
-10
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_11-GF-5,08_1x11_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/11-GF-5,08; number of pins: 11; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776595 12A || order number: 1924172 16A (HC)
-phoenix_contact connector MSTB_01x11_GF_5.08mm
+1
+1
+MountingHole
+MountingHole_3mm_Pad_TopBottom
+Mounting Hole 3mm
+mounting hole 3mm
 0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_11-GF-5,08_1x11_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/11-GF-5,08; number of pins: 11; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776595 12A || order number: 1924172 16A (HC)
-phoenix_contact connector MSTB_01x11_GF_5.08mm_MH
+3
+1
+MountingHole
+MountingHole_3mm_Pad_TopOnly
+Mounting Hole 3mm
+mounting hole 3mm
 0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/11-GF; number of pins: 11; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776786 12A || order number: 1924062 16A (HC)
-phoenix_contact connector MSTB_01x11_GF_5.00mm
+2
+1
+MountingHole
+MountingHole_3mm_Pad_Via
+Mounting Hole 3mm
+mounting hole 3mm
 0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/11-GF; number of pins: 11; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776786 12A || order number: 1924062 16A (HC)
-phoenix_contact connector MSTB_01x11_GF_5.00mm_MH
+9
+1
+MountingHole
+MountingHole_4.3mm_M4
+Mounting Hole 4.3mm, no annular, M4
+mounting hole 4.3mm no annular m4
 0
-11
-11
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_12-GF-5,08_1x12_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/12-GF-5,08; number of pins: 12; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776605 12A || order number: 1924185 16A (HC)
-phoenix_contact connector MSTB_01x12_GF_5.08mm
 0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_12-GF-5,08_1x12_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/12-GF-5,08; number of pins: 12; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776605 12A || order number: 1924185 16A (HC)
-phoenix_contact connector MSTB_01x12_GF_5.08mm_MH
 0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_12-GF_1x12_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/12-GF; number of pins: 12; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776799 12A || order number: 1924075 16A (HC)
-phoenix_contact connector MSTB_01x12_GF_5.00mm
+MountingHole
+MountingHole_4.3mm_M4_DIN965
+Mounting Hole 4.3mm, no annular, M4, DIN965
+mounting hole 4.3mm no annular m4 din965
 0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_12-GF_1x12_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/12-GF; number of pins: 12; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776799 12A || order number: 1924075 16A (HC)
-phoenix_contact connector MSTB_01x12_GF_5.00mm_MH
 0
-12
-12
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_13-GF-5,08_1x13_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/13-GF-5,08; number of pins: 13; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776618 12A
-phoenix_contact connector MSTB_01x13_GF_5.08mm
 0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_13-GF-5,08_1x13_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/13-GF-5,08; number of pins: 13; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776618 12A
-phoenix_contact connector MSTB_01x13_GF_5.08mm_MH
+MountingHole
+MountingHole_4.3mm_M4_DIN965_Pad
+Mounting Hole 4.3mm, M4, DIN965
+mounting hole 4.3mm m4 din965
 0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_13-GF_1x13_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/13-GF; number of pins: 13; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776809 12A
-phoenix_contact connector MSTB_01x13_GF_5.00mm
+1
+1
+MountingHole
+MountingHole_4.3mm_M4_DIN965_Pad_TopBottom
+Mounting Hole 4.3mm, M4, DIN965
+mounting hole 4.3mm m4 din965
 0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_13-GF_1x13_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/13-GF; number of pins: 13; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776809 12A
-phoenix_contact connector MSTB_01x13_GF_5.00mm_MH
+3
+1
+MountingHole
+MountingHole_4.3mm_M4_DIN965_Pad_TopOnly
+Mounting Hole 4.3mm, M4, DIN965
+mounting hole 4.3mm m4 din965
 0
-13
-13
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_14-GF-5,08_1x14_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/14-GF-5,08; number of pins: 14; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776621 12A
-phoenix_contact connector MSTB_01x14_GF_5.08mm
+2
+1
+MountingHole
+MountingHole_4.3mm_M4_ISO7380
+Mounting Hole 4.3mm, no annular, M4, ISO7380
+mounting hole 4.3mm no annular m4 iso7380
 0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_14-GF-5,08_1x14_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/14-GF-5,08; number of pins: 14; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776621 12A
-phoenix_contact connector MSTB_01x14_GF_5.08mm_MH
 0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_14-GF_1x14_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/14-GF; number of pins: 14; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776812 12A
-phoenix_contact connector MSTB_01x14_GF_5.00mm
 0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_14-GF_1x14_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/14-GF; number of pins: 14; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776812 12A
-phoenix_contact connector MSTB_01x14_GF_5.00mm_MH
+MountingHole
+MountingHole_4.3mm_M4_ISO7380_Pad
+Mounting Hole 4.3mm, M4, ISO7380
+mounting hole 4.3mm m4 iso7380
 0
-14
-14
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_15-GF-5,08_1x15_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/15-GF-5,08; number of pins: 15; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776634 12A
-phoenix_contact connector MSTB_01x15_GF_5.08mm
+1
+1
+MountingHole
+MountingHole_4.3mm_M4_ISO7380_Pad_TopBottom
+Mounting Hole 4.3mm, M4, ISO7380
+mounting hole 4.3mm m4 iso7380
 0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_15-GF-5,08_1x15_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/15-GF-5,08; number of pins: 15; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776634 12A
-phoenix_contact connector MSTB_01x15_GF_5.08mm_MH
+3
+1
+MountingHole
+MountingHole_4.3mm_M4_ISO7380_Pad_TopOnly
+Mounting Hole 4.3mm, M4, ISO7380
+mounting hole 4.3mm m4 iso7380
 0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_15-GF_1x15_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/15-GF; number of pins: 15; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776825 12A
-phoenix_contact connector MSTB_01x15_GF_5.00mm
+2
+1
+MountingHole
+MountingHole_4.3mm_M4_ISO14580
+Mounting Hole 4.3mm, no annular, M4, ISO14580
+mounting hole 4.3mm no annular m4 iso14580
 0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_15-GF_1x15_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/15-GF; number of pins: 15; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776825 12A
-phoenix_contact connector MSTB_01x15_GF_5.00mm_MH
 0
-15
-15
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_16-GF-5,08_1x16_P5.08mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/16-GF-5,08; number of pins: 16; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776647 12A
-phoenix_contact connector MSTB_01x16_GF_5.08mm
 0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_16-GF-5,08_1x16_P5.08mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/16-GF-5,08; number of pins: 16; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776647 12A
-phoenix_contact connector MSTB_01x16_GF_5.08mm_MH
+MountingHole
+MountingHole_4.3mm_M4_ISO14580_Pad
+Mounting Hole 4.3mm, M4, ISO14580
+mounting hole 4.3mm m4 iso14580
 0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_16-GF_1x16_P5.00mm_Horizontal_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTB_2,5/16-GF; number of pins: 16; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776838 12A
-phoenix_contact connector MSTB_01x16_GF_5.00mm
+1
+1
+MountingHole
+MountingHole_4.3mm_M4_ISO14580_Pad_TopBottom
+Mounting Hole 4.3mm, M4, ISO14580
+mounting hole 4.3mm m4 iso14580
 0
-16
-16
-Connector_Phoenix_MSTB
-PhoenixContact_MSTB_2,5_16-GF_1x16_P5.00mm_Horizontal_ThreadedFlange_MountHole
-Generic Phoenix Contact connector footprint for: MSTB_2,5/16-GF; number of pins: 16; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776838 12A
-phoenix_contact connector MSTB_01x16_GF_5.00mm_MH
+3
+1
+MountingHole
+MountingHole_4.3mm_M4_ISO14580_Pad_TopOnly
+Mounting Hole 4.3mm, M4, ISO14580
+mounting hole 4.3mm m4 iso14580
 0
-16
-16
+2
+1
+MountingHole
+MountingHole_4.3mm_M4_Pad
+Mounting Hole 4.3mm, M4
+mounting hole 4.3mm m4
+0
+1
+1
+MountingHole
+MountingHole_4.3mm_M4_Pad_TopBottom
+Mounting Hole 4.3mm, M4
+mounting hole 4.3mm m4
+0
+3
+1
+MountingHole
+MountingHole_4.3mm_M4_Pad_TopOnly
+Mounting Hole 4.3mm, M4
+mounting hole 4.3mm m4
+0
+2
+1
+MountingHole
+MountingHole_4.3mm_M4_Pad_Via
+Mounting Hole 4.3mm, M4
+mounting hole 4.3mm m4
+0
+9
+1
+MountingHole
+MountingHole_4.3x6.2mm_M4_Pad
+Mounting Hole 4.3x6.2mm, M4
+mounting hole 4.3x6.2mm m4
+0
+1
+1
+MountingHole
+MountingHole_4.3x6.2mm_M4_Pad_Via
+Mounting Hole 4.3x6.2mm, M4
+mounting hole 4.3x6.2mm m4
+0
+17
+1
+MountingHole
+MountingHole_4.5mm
+Mounting Hole 4.5mm, no annular
+mounting hole 4.5mm no annular
+0
+0
+0
+MountingHole
+MountingHole_4.5mm_Pad
+Mounting Hole 4.5mm
+mounting hole 4.5mm
+0
+1
+1
+MountingHole
+MountingHole_4.5mm_Pad_TopBottom
+Mounting Hole 4.5mm
+mounting hole 4.5mm
+0
+3
+1
+MountingHole
+MountingHole_4.5mm_Pad_TopOnly
+Mounting Hole 4.5mm
+mounting hole 4.5mm
+0
+2
+1
+MountingHole
+MountingHole_4.5mm_Pad_Via
+Mounting Hole 4.5mm
+mounting hole 4.5mm
+0
+9
+1
+MountingHole
+MountingHole_4mm
+Mounting Hole 4mm, no annular
+mounting hole 4mm no annular
+0
+0
+0
+MountingHole
+MountingHole_4mm_Pad
+Mounting Hole 4mm
+mounting hole 4mm
+0
+1
+1
+MountingHole
+MountingHole_4mm_Pad_TopBottom
+Mounting Hole 4mm
+mounting hole 4mm
+0
+3
+1
+MountingHole
+MountingHole_4mm_Pad_TopOnly
+Mounting Hole 4mm
+mounting hole 4mm
+0
+2
+1
+MountingHole
+MountingHole_4mm_Pad_Via
+Mounting Hole 4mm
+mounting hole 4mm
+0
+9
+1
+MountingHole
+MountingHole_5.3mm_M5
+Mounting Hole 5.3mm, no annular, M5
+mounting hole 5.3mm no annular m5
+0
+0
+0
+MountingHole
+MountingHole_5.3mm_M5_DIN965
+Mounting Hole 5.3mm, no annular, M5, DIN965
+mounting hole 5.3mm no annular m5 din965
+0
+0
+0
+MountingHole
+MountingHole_5.3mm_M5_DIN965_Pad
+Mounting Hole 5.3mm, M5, DIN965
+mounting hole 5.3mm m5 din965
+0
+1
+1
+MountingHole
+MountingHole_5.3mm_M5_DIN965_Pad_TopBottom
+Mounting Hole 5.3mm, M5, DIN965
+mounting hole 5.3mm m5 din965
+0
+3
+1
+MountingHole
+MountingHole_5.3mm_M5_DIN965_Pad_TopOnly
+Mounting Hole 5.3mm, M5, DIN965
+mounting hole 5.3mm m5 din965
+0
+2
+1
+MountingHole
+MountingHole_5.3mm_M5_ISO7380
+Mounting Hole 5.3mm, no annular, M5, ISO7380
+mounting hole 5.3mm no annular m5 iso7380
+0
+0
+0
+MountingHole
+MountingHole_5.3mm_M5_ISO7380_Pad
+Mounting Hole 5.3mm, M5, ISO7380
+mounting hole 5.3mm m5 iso7380
+0
+1
+1
+MountingHole
+MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom
+Mounting Hole 5.3mm, M5, ISO7380
+mounting hole 5.3mm m5 iso7380
+0
+3
+1
+MountingHole
+MountingHole_5.3mm_M5_ISO7380_Pad_TopOnly
+Mounting Hole 5.3mm, M5, ISO7380
+mounting hole 5.3mm m5 iso7380
+0
+2
+1
+MountingHole
+MountingHole_5.3mm_M5_ISO14580
+Mounting Hole 5.3mm, no annular, M5, ISO14580
+mounting hole 5.3mm no annular m5 iso14580
+0
+0
+0
+MountingHole
+MountingHole_5.3mm_M5_ISO14580_Pad
+Mounting Hole 5.3mm, M5, ISO14580
+mounting hole 5.3mm m5 iso14580
+0
+1
+1
+MountingHole
+MountingHole_5.3mm_M5_ISO14580_Pad_TopBottom
+Mounting Hole 5.3mm, M5, ISO14580
+mounting hole 5.3mm m5 iso14580
+0
+3
+1
+MountingHole
+MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly
+Mounting Hole 5.3mm, M5, ISO14580
+mounting hole 5.3mm m5 iso14580
+0
+2
+1
+MountingHole
+MountingHole_5.3mm_M5_Pad
+Mounting Hole 5.3mm, M5
+mounting hole 5.3mm m5
+0
+1
+1
+MountingHole
+MountingHole_5.3mm_M5_Pad_TopBottom
+Mounting Hole 5.3mm, M5
+mounting hole 5.3mm m5
+0
+3
+1
+MountingHole
+MountingHole_5.3mm_M5_Pad_TopOnly
+Mounting Hole 5.3mm, M5
+mounting hole 5.3mm m5
+0
+2
+1
+MountingHole
+MountingHole_5.3mm_M5_Pad_Via
+Mounting Hole 5.3mm, M5
+mounting hole 5.3mm m5
+0
+9
+1
+MountingHole
+MountingHole_5.5mm
+Mounting Hole 5.5mm, no annular
+mounting hole 5.5mm no annular
+0
+0
+0
+MountingHole
+MountingHole_5.5mm_Pad
+Mounting Hole 5.5mm
+mounting hole 5.5mm
+0
+1
+1
+MountingHole
+MountingHole_5.5mm_Pad_TopBottom
+Mounting Hole 5.5mm
+mounting hole 5.5mm
+0
+3
+1
+MountingHole
+MountingHole_5.5mm_Pad_TopOnly
+Mounting Hole 5.5mm
+mounting hole 5.5mm
+0
+2
+1
+MountingHole
+MountingHole_5.5mm_Pad_Via
+Mounting Hole 5.5mm
+mounting hole 5.5mm
+0
+9
+1
+MountingHole
+MountingHole_5mm
+Mounting Hole 5mm, no annular
+mounting hole 5mm no annular
+0
+0
+0
+MountingHole
+MountingHole_5mm_Pad
+Mounting Hole 5mm
+mounting hole 5mm
+0
+1
+1
+MountingHole
+MountingHole_5mm_Pad_TopBottom
+Mounting Hole 5mm
+mounting hole 5mm
+0
+3
+1
+MountingHole
+MountingHole_5mm_Pad_TopOnly
+Mounting Hole 5mm
+mounting hole 5mm
+0
+2
+1
+MountingHole
+MountingHole_5mm_Pad_Via
+Mounting Hole 5mm
+mounting hole 5mm
+0
+9
+1
+MountingHole
+MountingHole_6.4mm_M6
+Mounting Hole 6.4mm, no annular, M6
+mounting hole 6.4mm no annular m6
+0
+0
+0
+MountingHole
+MountingHole_6.4mm_M6_DIN965
+Mounting Hole 6.4mm, no annular, M6, DIN965
+mounting hole 6.4mm no annular m6 din965
+0
+0
+0
+MountingHole
+MountingHole_6.4mm_M6_DIN965_Pad
+Mounting Hole 6.4mm, M6, DIN965
+mounting hole 6.4mm m6 din965
+0
+1
+1
+MountingHole
+MountingHole_6.4mm_M6_DIN965_Pad_TopBottom
+Mounting Hole 6.4mm, M6, DIN965
+mounting hole 6.4mm m6 din965
+0
+3
+1
+MountingHole
+MountingHole_6.4mm_M6_DIN965_Pad_TopOnly
+Mounting Hole 6.4mm, M6, DIN965
+mounting hole 6.4mm m6 din965
+0
+2
+1
+MountingHole
+MountingHole_6.4mm_M6_ISO7380
+Mounting Hole 6.4mm, no annular, M6, ISO7380
+mounting hole 6.4mm no annular m6 iso7380
+0
+0
+0
+MountingHole
+MountingHole_6.4mm_M6_ISO7380_Pad
+Mounting Hole 6.4mm, M6, ISO7380
+mounting hole 6.4mm m6 iso7380
+0
+1
+1
+MountingHole
+MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom
+Mounting Hole 6.4mm, M6, ISO7380
+mounting hole 6.4mm m6 iso7380
+0
+3
+1
+MountingHole
+MountingHole_6.4mm_M6_ISO7380_Pad_TopOnly
+Mounting Hole 6.4mm, M6, ISO7380
+mounting hole 6.4mm m6 iso7380
+0
+2
+1
+MountingHole
+MountingHole_6.4mm_M6_ISO14580
+Mounting Hole 6.4mm, no annular, M6, ISO14580
+mounting hole 6.4mm no annular m6 iso14580
+0
+0
+0
+MountingHole
+MountingHole_6.4mm_M6_ISO14580_Pad
+Mounting Hole 6.4mm, M6, ISO14580
+mounting hole 6.4mm m6 iso14580
+0
+1
+1
+MountingHole
+MountingHole_6.4mm_M6_ISO14580_Pad_TopBottom
+Mounting Hole 6.4mm, M6, ISO14580
+mounting hole 6.4mm m6 iso14580
+0
+3
+1
+MountingHole
+MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly
+Mounting Hole 6.4mm, M6, ISO14580
+mounting hole 6.4mm m6 iso14580
+0
+2
+1
+MountingHole
+MountingHole_6.4mm_M6_Pad
+Mounting Hole 6.4mm, M6
+mounting hole 6.4mm m6
+0
+1
+1
+MountingHole
+MountingHole_6.4mm_M6_Pad_TopBottom
+Mounting Hole 6.4mm, M6
+mounting hole 6.4mm m6
+0
+3
+1
+MountingHole
+MountingHole_6.4mm_M6_Pad_TopOnly
+Mounting Hole 6.4mm, M6
+mounting hole 6.4mm m6
+0
+2
+1
+MountingHole
+MountingHole_6.4mm_M6_Pad_Via
+Mounting Hole 6.4mm, M6
+mounting hole 6.4mm m6
+0
+9
+1
+MountingHole
+MountingHole_6.5mm
+Mounting Hole 6.5mm, no annular
+mounting hole 6.5mm no annular
+0
+0
+0
+MountingHole
+MountingHole_6.5mm_Pad
+Mounting Hole 6.5mm
+mounting hole 6.5mm
+0
+1
+1
+MountingHole
+MountingHole_6.5mm_Pad_TopBottom
+Mounting Hole 6.5mm
+mounting hole 6.5mm
+0
+3
+1
+MountingHole
+MountingHole_6.5mm_Pad_TopOnly
+Mounting Hole 6.5mm
+mounting hole 6.5mm
+0
+2
+1
+MountingHole
+MountingHole_6.5mm_Pad_Via
+Mounting Hole 6.5mm
+mounting hole 6.5mm
+0
+9
+1
+MountingHole
+MountingHole_6mm
+Mounting Hole 6mm, no annular
+mounting hole 6mm no annular
+0
+0
+0
+MountingHole
+MountingHole_6mm_Pad
+Mounting Hole 6mm
+mounting hole 6mm
+0
+1
+1
+MountingHole
+MountingHole_6mm_Pad_TopBottom
+Mounting Hole 6mm
+mounting hole 6mm
+0
+3
+1
+MountingHole
+MountingHole_6mm_Pad_TopOnly
+Mounting Hole 6mm
+mounting hole 6mm
+0
+2
+1
+MountingHole
+MountingHole_6mm_Pad_Via
+Mounting Hole 6mm
+mounting hole 6mm
+0
+9
+1
+MountingHole
+MountingHole_8.4mm_M8
+Mounting Hole 8.4mm, no annular, M8
+mounting hole 8.4mm no annular m8
+0
+0
+0
+MountingHole
+MountingHole_8.4mm_M8_Pad
+Mounting Hole 8.4mm, M8
+mounting hole 8.4mm m8
+0
+1
+1
+MountingHole
+MountingHole_8.4mm_M8_Pad_TopBottom
+Mounting Hole 8.4mm, M8
+mounting hole 8.4mm m8
+0
+3
+1
+MountingHole
+MountingHole_8.4mm_M8_Pad_TopOnly
+Mounting Hole 8.4mm, M8
+mounting hole 8.4mm m8
+0
+2
+1
+MountingHole
+MountingHole_8.4mm_M8_Pad_Via
+Mounting Hole 8.4mm, M8
+mounting hole 8.4mm m8
+0
+9
+1
