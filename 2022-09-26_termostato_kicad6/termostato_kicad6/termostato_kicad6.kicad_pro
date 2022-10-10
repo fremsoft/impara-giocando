@@ -403,8 +403,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "termostato_kicad6.step",
+      "vrml": "termostato_kicad6.wrl"
     },
     "page_layout_descr_file": ""
   },
