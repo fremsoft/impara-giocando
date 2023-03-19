@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\frems\Documents\GitHub\impara-giocando\2022-09-26_termostato_kicad6\termostato_kicad6\termostato_kicad6.kicad_sch</source>
+    <date>19/03/2023 22:07:21</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>termostato_kicad6.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71a325d1-dc15-4805-a767-484727a6670c</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4004</value>
+      <footprint>Diode_THT:D_A-405_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a2e2f78-36d0-40ee-af15-ced5ebbdfdad</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53c4edbd-7c9e-44b0-b5cc-3a777545e753</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1792a67-ce3f-4ef4-88e4-0f5af5cc0b53</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a0d77ce-560a-47ff-ac64-f3ae2cd334f4</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d27752c-ec72-4595-bc74-bb0842d0429a</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>http://www.sanyourelay.ca/public/products/pdf/SRD.pdf</datasheet>
+      <libsource lib="Relay" part="SANYOU_SRD_Form_C" description="Sanyo SRD relay, Single Pole Miniature Power Relay,"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee4fcd98-c198-443e-82b7-b1a28fb4f62d</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BC337</value>
+      <footprint>Package_TO_SOT_THT:TO-92L_Inline_Wide</footprint>
+      <datasheet>https://diotec.com/tl_files/diotec/files/pdf/datasheets/bc337.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC337" description="0.8A Ic, 45V Vce, NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffd99df7-faee-4890-a938-020fada24988</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbb8fca9-3987-468c-aa79-7c1f74f46e6a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4303cad-128f-4ec6-a30b-17f723d15b42</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>894093a2-30b5-4fa5-82b2-366081c434f4</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>POT 10K</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>025727f1-28c1-41f6-bb33-dcfed1d21309</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5c1c27c-0d98-45f4-bdee-c4117c681318</tstamps>
+    </comp>
+    <comp ref="TH1">
+      <value>Thermistor_NTC</value>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W3.0mm_P2.50mm_MKS02_FKP02</footprint>
+      <libsource lib="Device" part="Thermistor_NTC" description="Temperature dependent resistor, negative temperature coefficient"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9feaae3-a0a1-4dec-a1dc-1dd8d5cb2f51</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MCP6002-xP</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm_LongPads</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="MCP6002-xP" description="1MHz, Low-Power Op Amp, DIP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e9d6357-b389-412e-9513-6bbf259ded6e 679fc094-e6ca-40e1-af6c-dd91cb0a70f5 51938691-b639-4243-ab8f-84ee036a6d1f</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>Power 5V</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec94b02b-95b0-409a-a3bb-0b8fe3f8e58d</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>OUT</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="termostato_kicad6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12a39c05-efa9-4310-b02f-d66964f064f7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="MCP6002-xP">
+      <description>1MHz, Low-Power Op Amp, DIP-8</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP6002-xP</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Trim">
+      <description>Trim-potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Trim</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Thermistor_NTC">
+      <description>Temperature dependent resistor, negative temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*NTC*</fp>
+        <fp>*Thermistor*</fp>
+        <fp>PIN?ARRAY*</fp>
+        <fp>bornier*</fp>
+        <fp>*Terminal?Block*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">Thermistor_NTC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Relay" part="SANYOU_SRD_Form_C">
+      <description>Sanyo SRD relay, Single Pole Miniature Power Relay,</description>
+      <docs>http://www.sanyourelay.ca/public/products/pdf/SRD.pdf</docs>
+      <footprints>
+        <fp>Relay*SPDT*SANYOU*SRD*Series*Form*C*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">SANYOU_SRD_Form_C</field>
+        <field name="Footprint">Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</field>
+        <field name="Datasheet">http://www.sanyourelay.ca/public/products/pdf/SRD.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC337">
+      <description>0.8A Ic, 45V Vce, NPN Transistor, TO-92</description>
+      <docs>https://diotec.com/tl_files/diotec/files/pdf/datasheets/bc337.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC337</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://diotec.com/tl_files/diotec/files/pdf/datasheets/bc337.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Relay">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Relay.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K1" pin="5" pintype="passive"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TH1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="X1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="X1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(K1-Pad1)">
+      <node ref="K1" pin="1" pintype="passive"/>
+      <node ref="X2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(K1-Pad3)">
+      <node ref="K1" pin="3" pintype="passive"/>
+      <node ref="X2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(K1-Pad4)">
+      <node ref="K1" pin="4" pintype="passive"/>
+      <node ref="X2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="TH1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="11" name="Vout">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+    </net>
+    <net code="12" name="Vref">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+  </nets>
+</export>
